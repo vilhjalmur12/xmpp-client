@@ -15,8 +15,7 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
-    "redux-promise": "^0.6.0",
-    "tls": "0.0.1"
+    "redux-promise": "^0.6.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
